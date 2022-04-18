@@ -7,7 +7,7 @@
     "pages/guide/guide",
     "pages/question/question",
     "pages/updatemd5/updatemd5",
-    "pages/my/index",
+    "pages/me/index",
     "pages/about/index",
     "pages/seeting/index"
   ],
@@ -101,7 +101,7 @@
         "selectedIconPath": "images/nav_minis_selected.png"
       },
       {
-        "pagePath": "pages/my/index",
+        "pagePath": "pages/me/index",
         "text": "我的",
         "iconPath": "/assets/images/tabbar/my.png",
         "selectedIconPath": "/assets/images/tabbar/my_a.png"
